@@ -18,7 +18,7 @@
 
 an AI-assisted knowledge pipeline for ecological research —
 connecting **Zotero** + automated literature crawling + LLMs for synthesis and review.
-not a developer. just convinced that AI should work for science, not the other way around.
+not a developer. but convinced that AI should work for science, not the other way around.
 learning Python.
 
 ```
@@ -33,7 +33,7 @@ learning Python.
 |:--|:--|
 | 🌿 **urban ecology content** | bilingual short videos on what lives around us · IG `@yuyuuu_he` · 小红书 `@Yuyuuu` |
 | 🦋 **scientific illustration** | botanical & insect drawing in Procreate — field species from Madrid |
-| 🎙️ **audio & podcast** | 207 episodes across 6 years on 喜马拉雅 · produced for 童行书院 |
+| 🎙️ **audio & podcast** | 207 episodes across 6 years · produced for 童行书院 |
 | 📝 **science writing** | long-form essay on Chinese phonetics → 450k views on WeChat |
 
 <br/>
