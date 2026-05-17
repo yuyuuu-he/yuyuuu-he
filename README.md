@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:1a0a2e,100:2d1155&height=200&section=header&text=Yuyuan%20He%20·%20&fontSize=40&fontColor=e8d5f5&animation=fadeIn&fontAlignY=38&desc=forestry%20·%20urban%20ecology%20·%20science%20communication%20·%20AI%20research%20tools&descAlignY=58&descFontColor=9b72cf&descFontSize=13" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:1a0a2e,100:2d1155&height=200&section=header&text=Yuyuan%20He&fontSize=40&fontColor=e8d5f5&animation=fadeIn&fontAlignY=38&desc=forestry%20·%20urban%20ecology%20·%20science%20communication%20·%20AI%20research%20tools&descAlignY=58&descFontColor=9b72cf&descFontSize=13" />
 
 <br/>
 
